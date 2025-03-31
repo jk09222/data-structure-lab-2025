@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21CA0DE8-CDF9-47DF-8A99-414A93E45AB5}|Lec03_Array\\Lec03_Array.vcxproj|C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Lec03_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{21CA0DE8-CDF9-47DF-8A99-414A93E45AB5}|Lec03_Array\\Lec03_Array.vcxproj|solutionrelative:Lec03_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A0178A5A-6E80-4A4D-B578-990EFA3354C2}|Project1\\Project1.vcxproj|C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0178A5A-6E80-4A4D-B578-990EFA3354C2}|Project1\\Project1.vcxproj|solutionrelative:Project1\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178A5A-6E80-4A4D-B578-990EFA3354C2}|Project1\\Project1.vcxproj|C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0178A5A-6E80-4A4D-B578-990EFA3354C2}|Project1\\Project1.vcxproj|solutionrelative:Project1\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178A5A-6E80-4A4D-B578-990EFA3354C2}|Project1\\Project1.vcxproj|C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0178A5A-6E80-4A4D-B578-990EFA3354C2}|Project1\\Project1.vcxproj|solutionrelative:Project1\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\Car.h",
+              "RelativeDocumentMoniker": "Project1\\Car.h",
+              "ToolTip": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\Car.h",
+              "RelativeToolTip": "Project1\\Car.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T01:18:55.467Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "array_sub.cpp",
-              "DocumentMoniker": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Lec03_Array\\array_sub.cpp",
-              "RelativeDocumentMoniker": "Lec03_Array\\array_sub.cpp",
-              "ToolTip": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Lec03_Array\\array_sub.cpp",
-              "RelativeToolTip": "Lec03_Array\\array_sub.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Title": "complextest.cpp",
+              "DocumentMoniker": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\complextest.cpp",
+              "RelativeDocumentMoniker": "Project1\\complextest.cpp",
+              "ToolTip": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\complextest.cpp",
+              "RelativeToolTip": "Project1\\complextest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-26T00:33:05.291Z",
+              "WhenOpened": "2025-03-31T01:03:50.933Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Complex.h",
+              "DocumentMoniker": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\Complex.h",
+              "RelativeDocumentMoniker": "Project1\\Complex.h",
+              "ToolTip": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Lec03_Array_Class\\Project1\\Complex.h",
+              "RelativeToolTip": "Project1\\Complex.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T00:54:46.555Z"
             }
           ]
         }
