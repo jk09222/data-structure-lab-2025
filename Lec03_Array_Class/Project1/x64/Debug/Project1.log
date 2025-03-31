@@ -1,5 +1,2 @@
-﻿  complextest.cpp
-C:\Users\limse\OneDrive - 전북대학교\바탕 화면\data-structure-lab-2025\Lec03_Array_Class\Project1\Car.h(25,27): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
-C:\Users\limse\OneDrive - 전북대학교\바탕 화면\data-structure-lab-2025\Lec03_Array_Class\Project1\Car.h(25,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
-C:\Users\limse\OneDrive - 전북대학교\바탕 화면\data-structure-lab-2025\Lec03_Array_Class\Project1\complextest.cpp(3,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+﻿  Complex.h
   Project1.vcxproj -> C:\Users\limse\OneDrive - 전북대학교\바탕 화면\data-structure-lab-2025\Lec03_Array_Class\x64\Debug\Project1.exe
