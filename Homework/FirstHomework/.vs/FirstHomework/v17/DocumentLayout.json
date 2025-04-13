@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Homework\\FirstHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3FDDDF-F72E-46C0-963B-997F68CC0BDA}|FirstHomework\\FirstHomework.vcxproj|C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Homework\\FirstHomework\\FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF3FDDDF-F72E-46C0-963B-997F68CC0BDA}|FirstHomework\\FirstHomework.vcxproj|solutionrelative:FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_max.cpp",
+              "DocumentMoniker": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Homework\\FirstHomework\\FirstHomework\\array_max.cpp",
+              "RelativeDocumentMoniker": "FirstHomework\\array_max.cpp",
+              "ToolTip": "C:\\Users\\limse\\OneDrive - \uC804\uBD81\uB300\uD559\uAD50\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2025\\Homework\\FirstHomework\\FirstHomework\\array_max.cpp",
+              "RelativeToolTip": "FirstHomework\\array_max.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T07:49:49.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
