@@ -1,5 +1,8 @@
 #include <cstdio>
 
+
+
+
 int findArrayMax(int score[], int n)
 {
 	int tmp = score[0];
