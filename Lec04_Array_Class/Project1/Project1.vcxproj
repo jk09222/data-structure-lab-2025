@@ -130,8 +130,11 @@
   <ItemGroup>
     <ClCompile Include="Car.h" />
     <ClCompile Include="Complex.h" />
-    <ClCompile Include="complextest.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="sportcar.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Music.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
